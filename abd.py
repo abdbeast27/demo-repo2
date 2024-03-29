@@ -8,5 +8,4 @@ def search(arr,target):
     else:
         print("no")
 
-
-g
+print("done")
